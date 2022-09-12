@@ -5,7 +5,7 @@
 	>
 		<div class="relative flex flex-col md:flex-row">
 			<a
-				href="#_"
+				href="/"
 				class="flex items-center mb-5 font-medium text-gray-900 lg:w-auto lg:items-center lg:justify-center md:mb-0"
 			>
 				<span class="mx-auto text-xl font-black leading-none text-gray-900 select-none"
