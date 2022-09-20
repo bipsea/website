@@ -180,6 +180,7 @@
 									<option value="goerli">Goerli</option>
 									<option value="polygon">Polygon</option>
 									<option value="optimism">Optimism</option>
+									<option value="harmony">Harmony</option>
 								</select>
 							</div>
 
