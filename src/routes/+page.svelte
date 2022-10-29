@@ -12,6 +12,7 @@
 	import litImg from '$lib/images/lit.png';
 	import optimismImg from '$lib/images/optimism.png';
 	import graphImg from '$lib/images/graph.png';
+	import harmonyImg from "$lib/images/harmony.png"
 </script>
 
 <div>
@@ -345,6 +346,20 @@
 					<div class="mt-3 space-y-2 text-center">
 						<div class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
 							<h3>The Graph</h3>
+						</div>
+					</div>
+				</div>
+
+				<div class="flex flex-col items-center justify-center col-span-1">
+					<div class="relative p-5">
+						<div
+							class="absolute z-10 w-full h-full -mt-5 -ml-5 rounded-full rounded-tr-none bg-blue-50"
+						/>
+						<img alt="" class="relative z-20 w-full rounded-full" src={harmonyImg} />
+					</div>
+					<div class="mt-3 space-y-2 text-center">
+						<div class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+							<h3>Harmony</h3>
 						</div>
 					</div>
 				</div>
